@@ -1,0 +1,26 @@
+.header{
+	padding: 20px 15px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px solid #ffffffbf;
+	width: 100%;
+
+}
+
+.logo {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 10px;
+	color: #fff;
+}
+
+.logo img{
+	width: 25px;
+}
+.logo h1{
+	font-size: 18px;
+	font-weight: 700;
+	letter-spacing: 1.2px;
+}

@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "title": "McLaren 720s",
+      "description": "McLaren 720S расположен в линейке Super Series, и новее своего преемника на 91 %. Оснащен доработанным 4,0 литровым двигателем V8 с двумя турбокомпрессорами, суммарно выдает 720 л. с. и 770 Н/м.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2019-mclaren-720s-spider-508-1565493374.jpg?crop=0.555xw:0.681xh;0.349xw,0.319xh&resize=768:*",
+      "price": 56577567
+    },
+    {
+      "id": "3",
+      "title": "Mercedes-Benz CLS",
+      "description": "Новый CLS – первопроходец, который представляет нам новый язык дизайна Mercedes-Benz, узнаваемый по чётким формам с редуцированными линиями. Его характер определяется раскрывающимся книзу контуром решётки радиатора и наклоном вперёд передней части кузова. Среди других его характерных признаков широкие и низкие фары головного освещения, а также",
+      "image": "https://avatars.mds.yandex.net/get-verba/1604130/2a0000017fad954b5e8471df4f2417bea9f3/cattouch",
+      "price": 21324
+    },
+    {
+      "id": "c495",
+      "title": "Land Rover Range Rover Sport",
+      "description": "The Sport in the 2024 Range Rover Sport's name is not only a reference to its position just beneath the grander Range Rover, but it also stands for the shot of adrenaline it injects into the brand's lineup. While other Range Rover models aim to deliver comfort and luxury, the Range Rover Sport offers those traits alongside athleticism on par with rivals such as the BMW X5, the Porsche Cayenne, and the",
+      "price": "23234344",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2023-range-rover-sport-101-1652153925.jpg?crop=0.627xw:0.531xh;0.243xw,0.284xh&resize=2048:*"
+    }
+  ]
+}
